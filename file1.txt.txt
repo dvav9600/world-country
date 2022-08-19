@@ -2,4 +2,3 @@ india
 australia
 pakistan
 america
-russia
